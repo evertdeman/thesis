@@ -1,6 +1,6 @@
 # Identifying and predicting alcohol use in adolescents based on structural brain imaging
 
-Master's thesis by Evert de Man. 
+Master's thesis by Evert de Man for the degree of Computational Neuroscience at the [BCCN Berlin](https://www.bccn-berlin.de/). Supervised by Prof Dr Kerstin Ritter, Prof Dr Henrik Walter and Roshan Rane. 
 
 ### Abstract 
 
